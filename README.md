@@ -9,6 +9,9 @@ _Bioinformatics Data Analyst(also loves Machine Learning) based in Seoul, Korea_
 Department of Bioengineering
 
 _Bachelor Student_
+
+<br/>
+
 ## Research Interests
 - Genomics bioinformatics 
 - Single-cell analysis

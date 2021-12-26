@@ -1,15 +1,25 @@
 # Junseo Kang
 
-Bioinformatics Data Analyst(who also loves Machine Learning) based in Seoul, Korea
+_Bioinformatics Data Analyst(also loves Machine Learning) based in Seoul, Korea_
 
-### Markdown
+[Email](kji98765@naver.com) / [GitHub](https://github.com/kangjunseo/)
 
-```markdown
-**Bold** and _Italic_ and `Code` text
+## Education
+**Hanyang University**  
+Department of Bioengineering
 
-[Link](url) and ![Image](src)
-```
+_Bachelor Student_
+## Research Interests
+- Genomics bioinformatics 
+- Single-cell analysis
+- Natural language processing
 
-### Jekyll Themes
+## Skills and Techniques
+- Programming skills : Python, C++
+- Machine Learning & Deep Learning frameworks : scikit-learn, PyTorch
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kangjunseo/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Awards and Honors
+- National Science and Engineering Undergraduate Scholarship, Korea Student Aid Foundation, Korea (Mar. 2020)
+- 2021 HCPC(Hanyang Collegiate Programming Contest) 7th Place, Hanyang University Department of Computer Science, Korea (Nov. 2021)
+
+[repository settings](https://github.com/kangjunseo/CV/settings/pages).

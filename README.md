@@ -21,6 +21,7 @@ _Bachelor Student_
 ## Skills and Techniques
 - Programming skills : Python, C++
 - Machine Learning & Deep Learning frameworks : scikit-learn, PyTorch
+- Back-end frameworks : Flask, GraphQL
 
 <br/>
 

@@ -13,15 +13,15 @@ _Bachelor Student_
 
 ## Research Interests
 - Genomics bioinformatics 
-- Single-cell analysis
 - Natural language processing
+- Single-cell analysis
 
 <br/>
 
 ## Skills and Techniques
-- Programming skills : Python, C++
+- Programming skills : **Python**, C++
 - Machine Learning & Deep Learning frameworks : scikit-learn, PyTorch
-- Back-end frameworks : Flask, GraphQL
+- Back-end frameworks : Flask, Nodejs
 
 <br/>
 
